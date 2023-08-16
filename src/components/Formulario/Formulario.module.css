@@ -1,0 +1,64 @@
+.form{
+   padding-top: 28px;
+   display: flex;
+   justify-content: space-around;
+}
+
+.input{
+   font-size: 28px;
+   text-align: center;
+}
+.red{
+   padding: 24px;
+   background-color: red;
+   border-radius: 25px;
+   text-align: center;
+   line-height: 30px;
+   color: #fff;
+   width: 50%;
+   margin: 30px 25%;
+}
+.orange{
+   padding: 24px;
+   background-color: orange;
+   border-radius: 25px;
+   text-align: center;
+   line-height: 30px;
+   color: #fff;
+   width: 50%;
+   margin: 30px 25%;
+}
+.yellow{
+   padding: 24px;
+   background-color: yellow;
+   border-radius: 25px;
+   text-align: center;
+   line-height: 30px;
+   color: #000;
+   width: 50%;
+   margin: 30px 25%;
+}
+.green{
+   padding: 24px;
+   background-color: green;
+   border-radius: 25px;
+   text-align: center;
+   line-height: 30px;
+   color: #000;
+   width: 50%;
+   margin: 30px 25%;
+}
+.blue{
+   padding: 24px;
+   background-color: blue;
+   border-radius: 25px;
+   text-align: center;
+   line-height: 30px;
+   color: #fff;
+   width: 50%;
+   margin: 30px 25%;
+}
+.image{
+   width: 50%;
+   margin: 0 25%;
+}

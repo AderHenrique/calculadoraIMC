@@ -1,0 +1,15 @@
+.header{
+   background-color: #2c2c54;
+   border-radius: 28px;
+   color: #fff;
+}
+.title{
+   text-align: center;
+   margin-top: 60px;
+   padding-top: 42px;
+}
+.text{
+   text-align: center;
+   padding-top: 24px;
+   padding-bottom: 42px;
+}
